@@ -1,0 +1,6 @@
+CorrelationId: bd60db82-e701-4eac-8439-6bb2971d79e3
+UTC DateTime: 10/02/2026 13:23:35
+
+The following files/folders have not been downloaded
+0. PocketSmart_AI/.venv/Lib/site-packages/pip-25.1.1.dist-info
+1. PocketSmart_AI/.venv/Lib/site-packages/pygments/lexers
